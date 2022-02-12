@@ -1,6 +1,6 @@
 ![header](https://github.com/Jeremyzzzz/Jeremyzzzz/blob/main/header.png?raw=true)
 
-<h3 align="center">Full Stack Software Developer | Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist | Software Developer</h3>
 
 - 🌱 I’m currently working as a **Data Science Developer**
 
