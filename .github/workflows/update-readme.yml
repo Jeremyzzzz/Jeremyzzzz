@@ -1,0 +1,25 @@
+name: Update README
+
+on:
+  schedule:
+    # Runs every first and 12 hrs.
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  activity:
+    name: Update README with recent activity
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Add activity to readme
+        uses: Readme-Workflows/recent-activity@v2.3.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_user_name: JeremyZzzz
+          commit_user_email: jeremyzxy0803@gmail.com
+          commit_author: Jeremy Zhang <jeremyzxy0803@gmail.com> # defaults to author of the commit that triggered the run
