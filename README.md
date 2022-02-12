@@ -24,8 +24,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=JeremyZzzz&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=JeremyZzzz&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true">
-  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=JeremyZzzz&hide_border=true">
+  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=JeremyZzzz&hide_border=true" />
 </a>
 </p>
 
