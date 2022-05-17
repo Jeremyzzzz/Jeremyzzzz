@@ -30,16 +30,16 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 16th, 2022, 6:10:31 PM (GMT)
+Last Updated: Tuesday, May 17th, 2022, 12:40:47 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [CVEProject/cvelist](https://github.com/CVEProject/cvelist)
-2. ⭐ Starred [shramos/Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
-3. ⭐ Starred [mitre/cti](https://github.com/mitre/cti)
-4. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
-5. ⭐ Starred [explosion/projects](https://github.com/explosion/projects)
+1. ⭐ Starred [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview)
+2. ⭐ Starred [CVEProject/cvelist](https://github.com/CVEProject/cvelist)
+3. ⭐ Starred [shramos/Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
+4. ⭐ Starred [mitre/cti](https://github.com/mitre/cti)
+5. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
