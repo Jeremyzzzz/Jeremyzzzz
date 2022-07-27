@@ -30,16 +30,16 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 26th, 2022, 6:10:11 PM (GMT)
+Last Updated: Wednesday, July 27th, 2022, 12:48:07 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
-2. ⭐ Starred [andrewekhalel/MLQuestions](https://github.com/andrewekhalel/MLQuestions)
-3. ⭐ Starred [python-engineer/MLfromscratch](https://github.com/python-engineer/MLfromscratch)
-4. ⭐ Starred [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview)
-5. ⭐ Starred [CVEProject/cvelist](https://github.com/CVEProject/cvelist)
+1. ⭐ Starred [aws-solutions/qnabot-on-aws](https://github.com/aws-solutions/qnabot-on-aws)
+2. ⭐ Starred [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+3. ⭐ Starred [andrewekhalel/MLQuestions](https://github.com/andrewekhalel/MLQuestions)
+4. ⭐ Starred [python-engineer/MLfromscratch](https://github.com/python-engineer/MLfromscratch)
+5. ⭐ Starred [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
