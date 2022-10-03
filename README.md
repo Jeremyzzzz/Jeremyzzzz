@@ -30,16 +30,16 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 3rd, 2022, 12:21:27 PM (GMT)
+Last Updated: Monday, October 3rd, 2022, 6:18:16 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [aws-solutions/qnabot-on-aws](https://github.com/aws-solutions/qnabot-on-aws)
-2. ⭐ Starred [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
-3. ⭐ Starred [andrewekhalel/MLQuestions](https://github.com/andrewekhalel/MLQuestions)
-4. ⭐ Starred [python-engineer/MLfromscratch](https://github.com/python-engineer/MLfromscratch)
-5. ⭐ Starred [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview)
+1. ⭐ Starred [onnx/onnx](https://github.com/onnx/onnx)
+2. ⭐ Starred [neuspell/neuspell](https://github.com/neuspell/neuspell)
+3. ⭐ Starred [mhagiwara/github-typo-corpus](https://github.com/mhagiwara/github-typo-corpus)
+4. ⭐ Starred [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)
+5. ⭐ Starred [mhagiwara/xfspell](https://github.com/mhagiwara/xfspell)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
