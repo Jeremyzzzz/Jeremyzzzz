@@ -30,12 +30,12 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 14th, 2026, 1:07:17 PM (GMT)
+Last Updated: Tuesday, July 14th, 2026, 7:01:31 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [microsoft/promptbase](https://github.com/microsoft/promptbase)
+1. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 2. ⭐ Starred [sunner/ChatALL](https://github.com/sunner/ChatALL)
 3. ⭐ Starred [sunner/ChatALL](https://github.com/sunner/ChatALL)
 4. ⭐ Starred [sunner/ChatALL](https://github.com/sunner/ChatALL)
